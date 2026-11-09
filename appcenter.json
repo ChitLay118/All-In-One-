@@ -13,10 +13,7 @@
     {
       "title": "ဆိုင်းဝိုင်း",
       "thumb": "https://hsaingwaing.online/logo.png",
-      "description": "Play 12 Myanmar traditional instruments with responsive drum pads.
-                      Build rhythms in the sequencer and export your music as WAV.
-                      မြန်မာ့ရိုးရာတူရိယာ ၁၂ မျိုး - ပတ်လုံး၊ မောင်း၊ ကြေးစည်၊ အိုးစည်၊ ဝါးလက်ခုပ် တို့ကို ဆိုင်းဝိုင်း app ဖြင့် တီးခတ်လေ့လာနိုင်ပါသည်။
-                      (https://hsaingwaing.online/)Website တွင်လဲ သွားရောက်၍ တိုက်ရိုက်ဒေါင်းနိုင်ပါသည်။",
+      "description": "Play 12 Myanmar traditional instruments with responsive drum pads.Build rhythms in the sequencer and export your music as WAV.မြန်မာ့ရိုးရာတူရိယာ ၁၂ မျိုး - ပတ်လုံး၊ မောင်း၊ ကြေးစည်၊ အိုးစည်၊ ဝါးလက်ခုပ် တို့ကို ဆိုင်းဝိုင်း app ဖြင့် တီးခတ်လေ့လာနိုင်ပါသည်။(https://hsaingwaing.online/)Website တွင်လဲ သွားရောက်၍ တိုက်ရိုက်ဒေါင်းနိုင်ပါသည်။",
       "version": "1.0.0",
       "size": "140 MB",
       "package": "com.moekyawsoe.mm_drumkit",

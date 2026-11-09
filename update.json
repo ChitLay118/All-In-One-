@@ -1,0 +1,16 @@
+{
+  "title": "MyanmarONE",
+  "version": "2.0.0",
+  "version_code": 2,
+  "size": "45.8 MB",
+  "description": "MyanmarONE app update အသစ်ဖြစ်ပါတယ်။ UI ပိုမိုကောင်းမွန်လာပြီး Feature အသစ်များ ထည့်သွင်းထားပါတယ်။",
+  "changelog": [
+    "UI Design အသစ်ပြောင်းလဲထားသည်",
+    "Live TV Feature ထည့်သွင်းထားသည်",
+    "App Center ထည့်သွင်းထားသည်",
+    "Bug များ ပြင်ဆင်ထားသည်"
+  ],
+  "download_url": "https://github.com/USERNAME/REPO/releases/download/v1.2.0/myanmarone.apk",
+  "force_update": false,
+  "enabled": true
+}

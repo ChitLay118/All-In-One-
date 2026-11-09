@@ -8,7 +8,7 @@
       "size": "35.8 MB",
       "package": "com.novanex.vpn",
       "download": "https://example.com/app.apk",
-      "enabled": true
+      "enabled": false
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "apps": [
     {
-      "title": "NOVANEX VPN",
-      "thumb": "https://example.com/icon.png",
-      "description": "Fast and Secure VPN",
-      "version": "2.5.0",
-      "size": "35.8 MB",
-      "package": "com.novanex.vpn",
-      "download": "https://example.com/app.apk",
-      "enabled": false
+      "title": "မြန်မာမောင်းနှင့်တူရိယာများ",
+      "thumb": "https://github.com/ChitLay118/Moung-myanmar/blob/main/Channelicon/ic_launcher.png?raw=true",
+      "description": "မြန်မာမောင်းနှင့်တူရိယာများကို တစ်နေရာတည်းတွင် တီးခက်နိုင်ရန် ရည်ရွယ်၍ဖန်တီးထားခြင်း ဖြစ်ပါသည်။",
+      "version": "3.0.0",
+      "size": "86 MB",
+      "package": "com.novanex.moung",
+      "download": "https://github.com/ChitLay118/Moung-myanmar/releases/download/version3(newApp)/-Version.3.0.0-NewApp.apk",
+      "enabled": true
     }
   ]
 }

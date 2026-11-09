@@ -1,1 +1,14 @@
-
+{
+  "apps": [
+    {
+      "title": "NOVANEX VPN",
+      "thumb": "https://example.com/icon.png",
+      "description": "Fast and Secure VPN",
+      "version": "2.5.0",
+      "size": "35.8 MB",
+      "package": "com.novanex.vpn",
+      "download": "https://example.com/app.apk",
+      "enabled": true
+    }
+  ]
+}

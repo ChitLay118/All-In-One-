@@ -1,24 +1,32 @@
 {
-  "apps": [
-    {
-      "title": "မြန်မာမောင်းနှင့်တူရိယာများ",
-      "thumb": "https://github.com/ChitLay118/Moung-myanmar/blob/main/Channelicon/ic_launcher.png?raw=true",
-      "description": "မြန်မာမောင်းနှင့်တူရိယာများကို တစ်နေရာတည်းတွင် တီးခက်နိုင်ရန် ရည်ရွယ်၍ဖန်တီးထားခြင်း ဖြစ်ပါသည်။",
-      "version": "3.0.0",
-      "size": "86 MB",
-      "package": "com.novanex.moung",
-      "download": "https://github.com/ChitLay118/Moung-myanmar/releases/download/version3(newApp)/-Version.3.0.0-NewApp.apk",
-      "enabled": true
-    },
-    {
-      "title": "ဆိုင်းဝိုင်း",
-      "thumb": "https://hsaingwaing.online/logo.png",
-      "description": "Play 12 Myanmar traditional instruments with responsive drum pads.Build rhythms in the sequencer and export your music as WAV.မြန်မာ့ရိုးရာတူရိယာ ၁၂ မျိုး - ပတ်လုံး၊ မောင်း၊ ကြေးစည်၊ အိုးစည်၊ ဝါးလက်ခုပ် တို့ကို ဆိုင်းဝိုင်း app ဖြင့် တီးခတ်လေ့လာနိုင်ပါသည်။(https://hsaingwaing.online/)Website တွင်လဲ သွားရောက်၍ တိုက်ရိုက်ဒေါင်းနိုင်ပါသည်။",
-      "version": "1.0.0",
-      "size": "140 MB",
-      "package": "com.moekyawsoe.mm_drumkit",
-      "download": "https://share.hsaingwaing.online/f/MwsL/mm_drumkit-v1.0.0+1.apk",
-      "enabled": true
-    }
-  ]
+"apps": [
+{
+"title": "မြန်မာမောင်းနှင့်တူရိယာများ",
+"thumb": "https://github.com/ChitLay118/Moung-myanmar/blob/main/Channelicon/ic_launcher.png?raw=true",
+"description": "မြန်မာမောင်းနှင့်တူရိယာများကို တစ်နေရာတည်းတွင် တီးခတ်နိုင်ရန် ရည်ရွယ်၍ဖန်တီးထားခြင်း ဖြစ်ပါသည်။",
+"version": "3.0.0",
+"size": "86 MB",
+"package": "com.novanex.moung",
+"download": "https://github.com/ChitLay118/Moung-myanmar/releases/download/version3(newApp)/-Version.3.0.0-NewApp.apk",
+"category": "music",
+"featured": true,
+"popular": true,
+"updated_at": "2026-11-11",
+"enabled": true
+},
+{
+"title": "ဆိုင်းဝိုင်း",
+"thumb": "https://hsaingwaing.online/logo.png",
+"description": "Play 12 Myanmar traditional instruments with responsive drum pads. Build rhythms in the sequencer and export your music as WAV. မြန်မာ့ရိုးရာတူရိယာ ၁၂ မျိုးကို ဆိုင်းဝိုင်း App ဖြင့် တီးခတ်လေ့လာနိုင်ပါသည်။ Website: https://hsaingwaing.online/",
+"version": "1.0.0",
+"size": "140 MB",
+"package": "com.moekyawsoe.mm_drumkit",
+"download": "https://share.hsaingwaing.online/f/MwsL/mm_drumkit-v1.0.0+1.apk",
+"category": "music",
+"featured": false,
+"popular": false,
+"updated_at": "2026-11-11",
+"enabled": true
+}
+]
 }

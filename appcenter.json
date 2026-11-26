@@ -14,6 +14,20 @@
 "updated_at": "2026-11-11",
 "enabled": true
 },
+  {
+"title": "NOVAKEY",
+"thumb": "https://raw.githubusercontent.com/ChitLay118/NOVAKEY-android-keyboard/main/image/download.webp",
+"description": "မြန်မာကီးဘုတ်",
+"version": "2.0",
+"size": "40.2 MB",
+"package": "com.novanex.novakey",
+"download": "https://github.com/ChitLay118/NOVAKEY-android-keyboard/releases/download/Version-2.0-stable/Novakey-stable.version2.0.apk",
+"category": "tools",
+"featured": true,
+"popular": true,
+"updated_at": "2026-11-26",
+"enabled": true
+},
 {
 "title": "ဆိုင်းဝိုင်း",
 "thumb": "https://hsaingwaing.online/logo.png",
